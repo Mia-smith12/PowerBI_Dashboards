@@ -2,7 +2,7 @@
 ![Dashboard Page 1](/images/Dashboard%20Photo.png)
  ## Introduction 
 
- This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real world data set of 2024 data science job postings, (including titles, salaries, and location), this project provides a single, easy to use interface to ecplore market trends and compensation. 
+ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real world data set of 2024 data science job postings, (including titles, salaries, and location), this project provides a single, easy to use interface to explore market trends and compensation. 
 
 ## Skills Showcased
 - **Data Transformation with Power Query:**
@@ -26,7 +26,7 @@ designed an intuitive and visually appealing layout, exploring both common and u
 ### Page 1:
 ![Dashboard Page 1](/images/Dashboard%20Photo.png)
 
-This is your mission control for the data job makret. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance. 
+This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance. 
 
 ### Page 2: Job Title Drill Through 
 
@@ -36,4 +36,4 @@ This is the deep-dive page. From the main dashboard, you can drill through into 
 
 ## Conclusion 
 
-This dashboard showcases how Power Bi can transform raw job posting data into a powerful tool for career analisys. It allows users to slice, filter, and drill through data to make informed desicions about their career paths. 
+This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analisys. It allows users to slice, filter, and drill through data to make informed desicions about their career paths. 
