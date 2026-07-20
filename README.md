@@ -6,11 +6,32 @@ This repository is a collection of Power BI dashboards I have developed. It trac
 
 Explore the dashboards below. Each has its own individual dedicated README with more details on the build procress and features. 
 
+## Retail Inventory & Performance Dashboard
+![Dashboard Page 3](/images/RetailDB.png)
+
+**Key Skills Demonstrated**
+- SQL data modeling
+
+- Database design (PostgreSQL)
+
+- Power Query transformations
+
+- DAX measure creation
+
+- Interactive dashboard design
+
+- Retail analytics & KPI development
+
+- End‑to‑end data pipeline creation
+
+[**View Full Project Details
+(README)**](/Retail_Dashboard/README.md)
+
 ## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 ![Dashboard Page 1](/images/Dashboard%20Photo.png)
 
-**Key Power bI Skills Utilized:**
+**Key Power BI Skills Utilized:**
 - Dashboard Layout and Design
 - Power Query (ETL & Data Shaping)
 - Drill Through Functionality
