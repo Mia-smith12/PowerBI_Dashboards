@@ -1,7 +1,7 @@
 # Retail Inventory & Performance Dashboard
 A Power BI project using PostgreSQL, VS Code, Power Query, and DAX
 
-![Dashboard Page 3](/images/RetailDB.png)
+![Dashboard Page 3](/images/retail_ss.png)
 
 
 ## Overview

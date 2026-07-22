@@ -7,7 +7,7 @@ This repository is a collection of Power BI dashboards I have developed. It trac
 Explore the dashboards below. Each has its own individual dedicated README with more details on the build procress and features. 
 
 ## Retail Inventory & Performance Dashboard
-![Dashboard Page 3](/images/RetailDB.png)
+![Dashboard Page 3](/images/retail_ss.png)
 
 **Key Skills Demonstrated**
 - SQL data modeling
